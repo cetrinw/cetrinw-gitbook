@@ -32,3 +32,7 @@
 ## Java相关
 
 * [书单](java-xiang-guan/shu-dan.md)
+
+## 🆙 区块链
+
+* [EOS](qu-kuai-lian/eos.md)
