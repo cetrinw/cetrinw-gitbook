@@ -50,7 +50,7 @@
   * [4.实现](qu-kuai-lian/btc/4.-shi-xian.md)
   * [5.网络](qu-kuai-lian/btc/5.-wang-luo.md)
   * [6.挖矿难度](qu-kuai-lian/btc/6.-wa-kuang-nan-du.md)
-* [EOS](qu-kuai-lian/eos/README.md)
+* [EOS](qu-kuai-lian/eos.md)
   * [概念](qu-kuai-lian/eos/gai-nian/README.md)
     * [基础](qu-kuai-lian/eos/gai-nian/ji-chu/README.md)
       * [1.什么是EOS?](qu-kuai-lian/eos/gai-nian/ji-chu/1.-shi-mo-shi-eos.md)
