@@ -66,3 +66,9 @@
       * [投票](qu-kuai-lian/eos/gai-nian/gong-shi/tou-piao.md)
   * [源码学习](qu-kuai-lian/eos/yuan-ma-xue-xi/README.md)
     * [EOS整体介绍](qu-kuai-lian/eos/yuan-ma-xue-xi/eos-zheng-ti-jie-shao.md)
+
+## Linux
+
+* [命令](linux/ming-ling/README.md)
+  * [tar](linux/ming-ling/tar.md)
+  * [vim](linux/ming-ling/vim.md)
