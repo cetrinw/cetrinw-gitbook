@@ -43,6 +43,9 @@
 
 ## 🆙 区块链
 
+* [BASE](qu-kuai-lian/base/README.md)
+  * [几种常见的共识机制](qu-kuai-lian/base/ji-zhong-chang-jian-de-gong-shi-ji-zhi.md)
+  * [几种链的简单理解](qu-kuai-lian/base/ji-zhong-lian-de-jian-dan-li-jie.md)
 * [BTC](qu-kuai-lian/btc/README.md)
   * [1.密码学原理](qu-kuai-lian/btc/1.-mi-ma-xue-yuan-li.md)
   * [2.数据结构](qu-kuai-lian/btc/2.-shu-ju-jie-gou.md)
@@ -58,6 +61,7 @@
     * [账户](qu-kuai-lian/eos/gai-nian/zhang-hu/README.md)
       * [1.EOS的账户是什么？](qu-kuai-lian/eos/gai-nian/zhang-hu/1.eos-de-zhang-hu-shi-shi-mo.md)
       * [2.EOS账户和BTC区别](qu-kuai-lian/eos/gai-nian/zhang-hu/2.eos-zhang-hu-he-btc-qu-bie.md)
+      * [3.深入了解EOS账户体系](qu-kuai-lian/eos/gai-nian/zhang-hu/3.-shen-ru-le-jie-eos-zhang-hu-ti-xi.md)
     * [资源](qu-kuai-lian/eos/gai-nian/zi-yuan/README.md)
       * [获取资源](qu-kuai-lian/eos/gai-nian/zi-yuan/huo-qu-zi-yuan.md)
       * [RAM概念](qu-kuai-lian/eos/gai-nian/zi-yuan/ram-gai-nian.md)
@@ -66,6 +70,11 @@
       * [投票](qu-kuai-lian/eos/gai-nian/gong-shi/tou-piao.md)
   * [源码学习](qu-kuai-lian/eos/yuan-ma-xue-xi/README.md)
     * [EOS整体介绍](qu-kuai-lian/eos/yuan-ma-xue-xi/eos-zheng-ti-jie-shao.md)
+  * [实操](qu-kuai-lian/eos/shi-cao/README.md)
+    * [账户](qu-kuai-lian/eos/shi-cao/zhang-hu/README.md)
+      * [1.查询账户详情](qu-kuai-lian/eos/shi-cao/zhang-hu/1.-cha-xun-zhang-hu-xiang-qing.md)
+      * [2.创建账户](qu-kuai-lian/eos/shi-cao/zhang-hu/2.-chuang-jian-zhang-hu.md)
+      * [Page 1](qu-kuai-lian/eos/shi-cao/zhang-hu/page-1.md)
 
 ## Linux
 
