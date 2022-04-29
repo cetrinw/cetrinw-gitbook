@@ -6,7 +6,10 @@
 ## C++相关
 
 * [C++](c++-xiang-guan/c++/README.md)
+  * [compile](c++-xiang-guan/c++/compile/README.md)
+    * [编译器](c++-xiang-guan/c++/compile/bian-yi-qi.md)
   * [Keywords](c++-xiang-guan/c++/keywords/README.md)
+    * [struct](c++-xiang-guan/c++/keywords/struct.md)
     * [& 和 \*](c++-xiang-guan/c++/keywords/he.md)
     * [AllocMem](c++-xiang-guan/c++/keywords/allocmem.md)
     * [class](c++-xiang-guan/c++/keywords/class.md)
